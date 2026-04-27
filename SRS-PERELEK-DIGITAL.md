@@ -55,7 +55,7 @@ Website Pengembangan Sistem Keuangan Perelek Digital Modern Berbasis Donasi Sosi
 
 7. Menyediakan panduan pengguna yang berisi petunjuk penggunaan sistem sehingga memudahkan pengguna dalam memahami cara menggunakan aplikasi.
 
-8. Menyediakan fitur laporan dimana warga bisa melaporkan secara real time tentang permasalahan yang terjadi.
+8. Menyediakan fitur laporan dimana warga bisa melaporkan secara real time tentang permasalahan yang terjadi di sekitar lingkungan.
 
 ### 1.5 References
 
