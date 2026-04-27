@@ -98,8 +98,7 @@ Website ini dirancang untuk dapat melakukan beberapa fungsi diantaranya adalah s
 
 7. **Kalender (Jadwal):** Menampilkan jadwal pengumpulan perelek, agenda kegiatan sosial, serta tenggat waktu penting lainnya yang berkaitan dengan program donasi.
 
-8. **Laporan:** Sistem dapat menghasilkan laporan keuangan periodik yang mencakup rekapitulasi pemasukan dan pengeluaran secara detail untuk keperluan audit atau dokumentasi.
-
+8. **Laporan:**Sistem mampu menghasilkan laporan keluhan yang disampaikan oleh warga terkait berbagai permasalahan yang terjadi.
 9. **Logout**
 
 ### 2.3 User Classes and Characteristics
