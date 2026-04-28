@@ -481,28 +481,13 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 
 ## Appendix B: Analysis Models
 
-### B.1 Entitas Utama & Relasi
-
-| Kelas | Atribut Utama | Method Utama |
-|-------|---------------|--------------|
-| User | id, name, email, phone, password, role, nik, address, is_active | login(), logout(), resetPassword(), updateProfile() |
-| Warga | id, user_id, no_rumah, nama_kk, jumlah_anggota, tanggal_bergabung, status | getTagihanAktif(), getRiwayatBayar(), getStatus() |
-| Tagihan | id, judul, nominal, periode, tanggal_mulai, tanggal_jatuh_tempo, status | createTagihan(), closeTagihan(), getStatistikBayar() |
-| Pembayaran | id, warga_id, tagihan_id, nominal, tanggal_bayar, metode_bayar, bukti_foto_url, status | submitPembayaran(), verifikasi(), tolak(), getRiwayat() |
-| Pengeluaran | id, judul, kategori, nominal, tanggal, deskripsi, bukti_foto_url, created_by | create(), update(), delete(), getRingkasan() |
-| KasLingkungan | id, total_pemasukan, total_pengeluaran, saldo, periode_bulan, periode_tahun | hitungSaldo(), getLaporan(), exportPDF() |
-| Kegiatan | id, judul, deskripsi, tanggal_mulai, tanggal_selesai, waktu_mulai, lokasi | create(), update(), cancel(), getUpcoming() |
-| Notifikasi | id, user_id, judul, pesan, tipe, is_read, created_at | send(), markRead(), getUnread() |
-
-### B.2 Relasi Antar Kelas
-
-- **User (1) — memiliki — (1) Warga** [Komposisi]
-- **Tagihan (1) — memiliki banyak — (N) Pembayaran** [Asosiasi]
-- **Warga (1) — memiliki banyak — (N) Pembayaran** [Asosiasi]
-- **User/Admin (1) — membuat banyak — (N) Tagihan** [Dependency]
-- **User/Admin (1) — membuat banyak — (N) Pengeluaran** [Dependency]
-- **Pengeluaran & Pembayaran — memengaruhi — (1) KasLingkungan** [Asosiasi]
-- **User (1) — menerima banyak — (N) Notifikasi** [Asosiasi]
+Appendix B: Analysis Models
+Use Case Diagram
+Activity Diagram
+Skema Database
+Class Diagram
+Component Diagram
+Deployment Diagram
 
 ---
 
