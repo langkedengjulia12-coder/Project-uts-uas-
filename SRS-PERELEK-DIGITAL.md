@@ -8,6 +8,26 @@ Organization: Perelek Digital Development Team
 Date: 2025
 
 ---
+**Disusun Oleh:**
+
+| Nama |
+|------|
+|  |
+|Julia Desteny Deodonia Langkedeng |
+|  |
+| |
+|  |
+|  |
+| |
+| |
+
+**PROGRAM STUDI SISTEM INFORMASI**
+**FAKULTAS ILMU KOMPUTER DAN SISTEM INFORMASI**
+**UNIVERSITAS KEBANGSAAN REPUBLIK INDONESIA**
+**TAHUN 2026**
+
+
+---
 
 ## Revision History
 
