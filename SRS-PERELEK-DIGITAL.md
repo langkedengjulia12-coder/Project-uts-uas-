@@ -16,7 +16,7 @@ Date: 2025
 |Julia Desteny Deodonia Langkedeng |
 |Nazwa Ima |
 |Gilang Anugrah |
-|Rifqy|
+|muhammad rifqy wildan|
 |Wahyu Bonita |
 |Aal Maulana |
 |Caca |
