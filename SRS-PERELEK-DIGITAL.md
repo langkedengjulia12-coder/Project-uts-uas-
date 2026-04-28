@@ -12,14 +12,14 @@ Date: 2025
 
 | Nama |
 |------|
-|  |
+|Ilyas |
 |Julia Desteny Deodonia Langkedeng |
-|  |
-| |
-|  |
-|  |
-| |
-| |
+|Nazwa Ima |
+|Gilang Anugrah |
+|Rifqy|
+|Wahyu Bonita |
+|Aal Maulana |
+|Caca |
 
 **PROGRAM STUDI SISTEM INFORMASI**
 **FAKULTAS ILMU KOMPUTER DAN SISTEM INFORMASI**
