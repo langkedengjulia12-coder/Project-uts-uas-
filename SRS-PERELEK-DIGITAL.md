@@ -481,7 +481,6 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 
 ## Appendix B: Analysis Models
 
-Appendix B:
 Analysis Models
 
 Use Case Diagram
