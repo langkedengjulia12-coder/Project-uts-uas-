@@ -508,7 +508,10 @@ Activity Diagram
 
 Rancangan Database
 
-Rancangan Arsitektur
+Rancangan Arsitektur sistem
+
+Rancangan Arsitektur Teknologi
+<img width="735" height="606" alt="Diagram Teknologi" src="https://github.com/user-attachments/assets/87698218-cbf9-4f4b-99ba-abf545e78af4" />
 
 Class Diagram
 
