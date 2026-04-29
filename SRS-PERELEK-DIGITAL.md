@@ -12,14 +12,14 @@ Date: 2025
 
 | Nama |
 |------|
-|Ilyas |
+|Muhammad Ilyas Fauzi  |
 |Julia Desteny Deodonia Langkedeng |
-|Nazwa Ima |
+|Nazwa Ima Fadia|
 |Gilang Anugrah |
 |muhammad rifqy wildan|
-|Wahyu Bonita |
+|Wahyu Bonita Juliana Sari |
 |Aal Maulana |
-|Caca |
+|Caryksha Aulia Putri |
 
 **PROGRAM STUDI SISTEM INFORMASI**
 **FAKULTAS ILMU KOMPUTER DAN SISTEM INFORMASI**
