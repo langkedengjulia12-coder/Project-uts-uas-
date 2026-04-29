@@ -522,6 +522,10 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 
 **Deployment Diagram**
 
+
+**UI**
+
+
 ---
 
 ## Appendix C: To Be Determined List
