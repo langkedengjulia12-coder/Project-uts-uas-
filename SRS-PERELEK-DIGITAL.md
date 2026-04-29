@@ -501,14 +501,14 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 
 ## Appendix B: Analysis Models
 
-Analysis Models
-
 
 Use Case Diagram
 
 Activity Diagram
 
-Skema Database
+Rancangan Database
+
+Rancangan Arsitektur
 
 Class Diagram
 
