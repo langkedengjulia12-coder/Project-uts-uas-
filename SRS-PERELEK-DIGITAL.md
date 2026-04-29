@@ -503,6 +503,9 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 
 Analysis Models
 
+<img width="433" height="347" alt="nabila" src="https://github.com/user-attachments/assets/31febfd2-f601-4b7b-bd73-e4c94e2aca9d" />
+
+
 Use Case Diagram
 
 Activity Diagram
