@@ -503,6 +503,7 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 
 
 **Use Case Diagram**
+![Diagram Use Case](UseCaseDiagram fix.jpg)
 
 **Activity Diagram**
 
