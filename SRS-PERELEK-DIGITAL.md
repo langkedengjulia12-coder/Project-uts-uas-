@@ -518,7 +518,6 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 **Rancangan Arsitektur Teknologi**
 <img width="735" height="606" alt="Diagram Teknologi" src="https://github.com/user-attachments/assets/87698218-cbf9-4f4b-99ba-abf545e78af4" />
 
-**UI**
 
 **Class Diagram**
 
@@ -528,6 +527,7 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 
 **Deployment Diagram**
 
+**UI**
 
 
 
