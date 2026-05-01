@@ -508,6 +508,11 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 **Activity Diagram**
 ![Activity Diagram](ActivityDiagram.jpg)
 
+
+
+
+
+
 **Rancangan Database**
 
 **Rancangan Arsitektur sistem**
