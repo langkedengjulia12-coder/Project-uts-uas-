@@ -507,7 +507,10 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 
 **Activity Diagram**
 ![Activity Diagram](ActivityDiagram.jpg)
-
+![Activity Diagram Fitur 4](ActivityDiagramFitur-4.png)
+![Activity Diagram Fitur 5](ActivityDiagramFitur-5.png)
+![Activity Diagram Fitur 6](ActivityDiagramFitur-6.png)
+![Activity Diagram Fitur 7](ActivityDiagramFitur-7.png)
 
 
 
