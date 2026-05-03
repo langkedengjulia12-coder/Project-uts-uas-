@@ -535,8 +535,111 @@ Generasi laporan keuangan otomatis dalam format PDF untuk admin dan warga.
 
 **Deployment Diagram**
 
-**UI**
+**UI&UX**
+**Versi Web**
+**Login**
 
+#### 1. Halaman Login
+![UI Login](UiUxLogin.png)
+
+**Deskripsi:**
+Halaman login adalah pintu masuk utama sistem. Pengguna dapat login menggunakan email/nomor HP dan password. Sistem akan memvalidasi kredensial dan menghasilkan JWT token untuk autentikasi. Fitur-fitur:
+- Input field untuk email/nomor HP
+- Input field untuk password
+- Tombol "Login" untuk submit
+- Link "Lupa Password" untuk reset password
+- Opsi "Ingat Saya" untuk memperpanjang sesi
+
+---
+
+#### 2. Halaman Dashboard Admin
+![UI Dashboard Admin](UiUxDashboardAdmin.png)
+
+**Deskripsi:**
+Dashboard Admin menampilkan ringkasan komprehensif status sistem. Admin dapat melihat total warga, total pemasukan bulan ini, total pengeluaran, saldo kas, jumlah pembayaran pending, grafik tren pembayaran, dan notifikasi terbaru. Desain responsif dengan widget-widget interaktif untuk monitoring real-time.
+
+---
+
+#### 3. Halaman Dashboard Warga
+![UI Dashboard Warga](UiUxDashboardWarga.png)
+
+**Deskripsi:**
+Dashboard Warga menampilkan informasi personal yang relevan untuk warga. Meliputi status tagihan aktif, riwayat pembayaran terakhir, pengumuman terbaru dari admin, saldo kas lingkungan, dan kalender jadwal kegiatan komunitas. Antarmuka dirancang sederhana dan user-friendly.
+
+---
+
+#### 4. Halaman Daftar Warga (Admin)
+![UI Daftar Warga Admin](UiUxDaftarWargaAdmin.png)
+
+**Deskripsi:**
+Halaman ini menampilkan daftar lengkap semua warga yang terdaftar dalam sistem dengan informasi detail meliputi nama, nomor identitas, status keanggotaan, dan aksi pengelolaan. Fitur yang tersedia:
+- Pencarian warga berdasarkan nama atau nomor identitas
+- Filter berdasarkan status (aktif/nonaktif)
+- Filter berdasarkan blok/lokasi rumah
+- Tombol aksi untuk melihat detail, mengedit, dan menonaktifkan akun warga
+- Pagination untuk menampilkan data secara bertahap (maksimal 50 data per halaman)
+- Tombol tambah warga baru
+
+---
+
+#### 5. Halaman Pembayaran Warga
+![UI Pembayaran Warga](UiUxPembayaranWarga.png)
+
+**Deskripsi:**
+Halaman pembayaran memungkinkan warga untuk mengirimkan bukti pembayaran iuran. Warga mengisi form pembayaran dengan memilih tagihan yang akan dibayar, nominal, tanggal pembayaran, metode bayar, dan upload foto bukti (JPG/PNG, maks 5MB). Sistem akan mencatat status pembayaran sebagai "pending" menunggu verifikasi admin.
+
+---
+
+#### 6. Halaman Verifikasi Pembayaran (Admin)
+![UI Pembayaran Warga Admin](UiUxPembayaranWargaAdmin.png)
+
+**Deskripsi:**
+Halaman verifikasi pembayaran memungkinkan admin untuk melihat daftar pembayaran yang pending, preview foto bukti pembayaran, dan melakukan konfirmasi atau penolakan dengan catatan. Admin dapat:
+- Melihat detail pembayaran dan foto bukti
+- Mengubah status pembayaran menjadi "lunas" atau "ditolak"
+- Menambahkan catatan atau feedback untuk warga
+- Melihat riwayat verifikasi pembayaran
+
+---
+
+#### 7. Halaman Profil Warga
+![UI Profil Warga](UiUxProfilWarga.png)
+
+**Deskripsi:**
+Halaman profil menampilkan informasi lengkap warga termasuk data diri, riwayat pembayaran, dan status tagihan. Warga dapat melihat:
+- Data pribadi (nama, NIK, nomor HP, email, alamat)
+- Foto profil dan foto KTP
+- Riwayat pembayaran lengkap dengan status
+- Tagihan yang masih pending
+- Opsi untuk mengedit informasi pribadi
+- Opsi untuk download laporan pembayaran pribadi
+
+---
+
+#### 8. Halaman Laporan Keuangan (Admin)
+![UI Laporan Admin](UiUxLaporanAdmin.png)
+
+**Deskripsi:**
+Halaman laporan keuangan admin menyajikan analisis komprehensif keuangan lingkungan. Admin dapat:
+- Melihat ringkasan pemasukan, pengeluaran, dan saldo
+- Melihat grafik tren pembayaran bulanan
+- Melihat perbandingan pemasukan vs pengeluaran
+- Melihat daftar pembayar dan tunggakan pembayaran
+- Generate dan download laporan dalam format PDF
+- Filter laporan berdasarkan periode waktu
+
+---
+
+#### 9. Halaman Laporan Warga
+![UI Laporan Warga](UiUxLaporanWarga.png)
+
+**Deskripsi:**
+Halaman laporan warga menampilkan riwayat pembayaran pribadi dalam format yang terstruktur. Warga dapat:
+- Melihat riwayat pembayaran lengkap
+- Melihat status setiap pembayaran (pending/lunas/ditolak)
+- Melihat ringkasan total pembayaran per bulan/tahun
+- Download laporan pembayaran pribadi dalam format PDF
+- Filter riwayat berdasarkan periode waktu
 
 
 
